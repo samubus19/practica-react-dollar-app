@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-color: #eee; */
+  background-image: url('./assets/img/v1008-24-a.jpg');
+  
+  background-size: cover;
 }
 
 code {
